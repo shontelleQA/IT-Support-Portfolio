@@ -14,7 +14,7 @@ Welcome to my IT Support Portfolio. This repository contains examples of my work
 
 ---
 
-## 📄 Projects
+## 📄 Issues
 
 ### [Datacom Service Desk Simulation — Email Access Issue](./projects/Datacom_Email_Issue/)
 Handled a client email access issue through structured troubleshooting, clear communication, and follow-up.  
